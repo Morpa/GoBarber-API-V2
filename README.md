@@ -35,6 +35,7 @@ This project was developed with the following technologies:
 - [Typescript](https://www.typescriptlang.org/)
 - [Typeorm](https://typeorm.io/#/)
 - [JWT](https://jwt.io/)
+- [Jest](https://jestjs.io/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [VS Code](https://code.visualstudio.com/)
