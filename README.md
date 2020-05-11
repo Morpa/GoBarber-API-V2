@@ -47,6 +47,7 @@ This project was developed with the following technologies:
 - [Multer](https://github.com/expressjs/multer)
 - [TypeORM](https://typeorm.io/#/)
 - [JWT](https://jwt.io/)
+- [Handlebars](https://handlebarsjs.com/)
 - [uuid v4](https://github.com/thenativeweb/uuidv4/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Date-fns](https://date-fns.org/)
