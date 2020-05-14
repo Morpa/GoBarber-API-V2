@@ -45,6 +45,7 @@ This project was developed with the following technologies:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
 - [Multer](https://github.com/expressjs/multer)
+- [MongoDB](https://www.mongodb.com/)
 - [TypeORM](https://typeorm.io/#/)
 - [JWT](https://jwt.io/)
 - [Handlebars](https://handlebarsjs.com/)
