@@ -11,6 +11,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "aws-sdk": "^2.676.0",
     "axios": "^0.19.2",
     "bcryptjs": "^2.4.3",
     "celebrate": "^12.1.1",
