@@ -46,6 +46,7 @@ This project was developed with the following technologies:
 - [Express](https://expressjs.com/pt-br/)
 - [Multer](https://github.com/expressjs/multer)
 - [MongoDB](https://www.mongodb.com/)
+- [Redis](https://redis.io/)
 - [TypeORM](https://typeorm.io/#/)
 - [JWT](https://jwt.io/)
 - [Handlebars](https://handlebarsjs.com/)
